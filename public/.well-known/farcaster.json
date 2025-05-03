@@ -10,6 +10,7 @@
     "iconUrl": "https://live-counter-ten.vercel.app/icon.png",
     "homeUrl": "https://live-counter-ten.vercel.app/",
     "splashBackgroundColor": "#f8ffae",
+    "splashImageUrl": "https://live-counter-ten.vercel.app/splashImage.jpeg",
     "description": "A fun live visitor counter for Farcaster Mini Apps."
   }
 }
