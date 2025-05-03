@@ -82,6 +82,11 @@ function App() {
     return () => ws.close();
   }, []);
 
+  useEffect(() => {
+    // Call this as soon as your UI is ready
+    sdk.actions.ready();
+  }, []);
+
   // Personalized greeting
   const greeting = user?.displayName
     ? `👋 Welcome, ${user.displayName}! You are visitor #${visitorCount}.`
