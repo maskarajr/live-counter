@@ -7,7 +7,7 @@
   "frame": {
     "version": "1",
     "name": "Live Counter",
-    "iconUrl": "https://live-counter-ten.vercel.app/logo192.png",
+    "iconUrl": "https://live-counter-ten.vercel.app/icon.png",
     "homeUrl": "https://live-counter-ten.vercel.app/",
     "splashBackgroundColor": "#f8ffae",
     "description": "A fun live visitor counter for Farcaster Mini Apps."
